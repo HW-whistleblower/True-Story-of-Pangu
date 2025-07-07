@@ -1,5 +1,7 @@
 # The Tragedy of Pangu: The Bittersweet and Dark Journey of Huawei Noah’s Pangu Large Model Development
 
+[汉语原文](README.md)
+
 Hello everyone,
 
 I am an employee of the Pangu large model team at Huawei’s Noah’s Ark Laboratory.
